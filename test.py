@@ -15,3 +15,6 @@ def sqrt(a):
 
 def power(a,b):
     return a^b
+
+def median(a,b):
+    return (a+b)/2
