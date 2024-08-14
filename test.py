@@ -9,3 +9,6 @@ def multiplication(a,b):
 
 def mean(a,b):
     return (a+b)/2
+
+def sqrt(a):
+    return a^2
